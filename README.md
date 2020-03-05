@@ -13,3 +13,6 @@ Types lodash is important as lodash by itself is not an ES6 module, it has to be
 After that though, config your webpack.config.js to your heart's desire, along with tsconfig.json to recognize react, es6, etc (rather than using Babel)
 
 Happy coding!
+
+Also info on React config w/TS here:
+https://www.typescriptlang.org/docs/handbook/react-&-webpack.html
